@@ -1,6 +1,15 @@
-<img align="right" height="590em" 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm William Jäger</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=green" alt="Profile views" /> </p>
+
+## Contact
+
+  <a href="https://www.linkedin.com/in/william-jager-dev/" target="_blank">
+    <img align="left" alt="Rafael | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+
+  <a href="mailto:rf.williamjager.dev@gmail.com">
+    <img align="left" alt="William | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
 
 - 🔥 Back End Developer focused on focused on creating better technology solutions.
 
@@ -23,12 +32,4 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-## Contact
 
-  <a href="https://www.linkedin.com/in/william-jager-dev/" target="_blank">
-    <img align="left" alt="Rafael | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a>
-
-  <a href="mailto:rf.williamjager.dev@gmail.com">
-    <img align="left" alt="William | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
-  </a>
