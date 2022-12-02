@@ -23,6 +23,6 @@
     <img align="left" alt="Rafael | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
 
-  <a href="mailto:rf.williamjager.dev@gmail.com">
+  <a href="mailto:williamjager.dev@gmail.com">
     <img align="left" alt="William | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a>
