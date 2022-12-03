@@ -3,7 +3,7 @@
 
 - 🔥 Back End Developer focused on focused on creating better technology solutions.
 
-- ▶️ I like to update myself on new technologies on Youtube.
+- ▶️ I like to update myself on new technologies on Youtube and on other platforms.
 
 - ⚡ I really like pair programming with code review.
 
