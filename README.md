@@ -7,8 +7,6 @@
 
 - ⚡ I really like pair programming with code review.
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
