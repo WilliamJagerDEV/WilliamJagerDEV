@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm William Jäger</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=green" alt="Profile views" /> </p>
 
-- 🔥 Back End Developer focused on focused on creating better technology solutions.
+- 🔥 Back End Developer focused on creating better technology solutions.
 
 - ▶️ I like to update myself on new technologies on Youtube and on other platforms.
 
